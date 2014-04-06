@@ -2,7 +2,7 @@
   "name": "jquery-methodOverride",
   "version": "0.1.0",
   "homepage": "https://github.com/adjohnson916/jquery-methodOverride",
-  "description": "More HTTP methods for jQuery.ajax",
+  "description": "More HTTP methods for jQuery.ajax and forms",
   "main": "src/jquery.methodOverride.js",
   "authors": [
     "Anders D. Johnson"
